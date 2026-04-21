@@ -1,3 +1,0 @@
-[bold]DELIVER TO: [/bold] SAMPLE NAME
-
-[BOLD]FROM: [/bold] SAMPLE SENDER
