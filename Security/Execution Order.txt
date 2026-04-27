@@ -1,24 +1,17 @@
 # Execution Order
-                                [color=#1b487e]╔══════════════════╗
-                                ║███░███░░░░██░░░░░║
-                                ║░██░████░░░██░░░░░║
-                                ║░░█░██░██░░██░█░░░║
-                                ║░░░░██░░██░██░██░░║
-                                ║░░░░██░░░████░███░║
-                                ╚══════════════════╝[/color]
-                                     [bold][head=1]NanoTrasen[/head]
-                               [/bold]
-                                      [head=2][bold]Execution Order[/bold][/head]
-─────────────────────────────────────────
+[color=#cb0000]█▄ █ ▀█▀    [head=3]NanoTrasen Security Department[/head]
+█ ▀█     █       [head=3]Execution Order[/head]
+═══════════════════════════════════════[/color]
+Prisoner Name: [color=#1b67a5]Sample[/color]
 
-Prisoner Name: [color=#1b67a5] Sample[/color] 
-
-Prisoner Crime: [color=#1b67a5] Sample[/color] 
-
-[/center]─────────────────────────────────────────
+Prisoner Crime: [color=#1b67a5]Sample[/color]
+────────────────────────────────────────
 I,[color=#1b67a5] Sample[/color], hereby authorize the execution of the above listed prisoner.
-─────────────────────────────────────────
-Signature of Head of Security or Captain: [color=#1b67a5] Sample[/color] 
+────────────────────────────────────────
+Head of Security's Signature: [color=#1b67a5]Sample[/color]
 
+Captain's Signature: [color=#1b67a5]Sample[/color]
 
+[italic][color=#aaaaaa]This order is deemed invalid if it is not stamped and signed by the Head of Security and the Captain. If the Captain is not available, it must be approved (stamped) by the Central Command. The Captain may act as both parties for approval.
 
+Without authorization, execution is murder.[/color][/italic]

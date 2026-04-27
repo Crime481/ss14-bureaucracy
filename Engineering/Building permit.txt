@@ -1,17 +1,18 @@
 # Building Permit
+[color=#f39f27]█▄ █ ▀█▀   [head=3]NanoTrasen Engineering & Technical[/head]
+█ ▀█     █       [head=3]Building Permit[/head]
+═══════════════════════════════════════[/color]
 
-                            [color=#1b487e]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-                                        [head=3]NanoTrasen[/ head]
+I, [color=#1b67a5]Name[/color], [color=#1b67a5]Job title[/color] am requesting permission from the station's engineering department to build the following construction:
+[bullet/]Describe the thing you would like to build here
 
-[head=2]Building permit[/head]
-[bold]Requeste:[/bold] NAME
-[bold]Job:[/bold] JOB
-[bold]Reason for permit:[/bold] REASON
+Located at: [color=#1b67a5]Placeholder[/color]
 
-Signed [color=lightblue]NAME[/color].
+For the purpose of: [color=#1b67a5]Placeholder[/color]
+
+───────────────────────────────────────
+Requesting person's signature: [color=#1b67a5]Sample[/color]
+
+Chief Engineer's signature: [color=#1b67a5]Sample[/color]
+
+[italic][color=#aaaaaa]This permit is deemed invalid if it is not stamped and signed by the station's Chief Engineer or Captain. If the Captain and Chief Engineer are unavailable, request Head of Personnel's approval.[/color][/italic]

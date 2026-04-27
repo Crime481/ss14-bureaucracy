@@ -1,28 +1,20 @@
-# Medical - Death Certificate
-[color=#5b97bc]█▄ █ ▀█▀    [head=3]Nanotrasen Medical Department [/head] [head=1]+[/head]
-█ ▀█     █ [/color] [color=black]      Death Certificate[/color]
-────────────────────────────────────────
-This document certifies the confirmed death of the following patient.
+# Death Certificate
+[color=#5b97bc]█▄ █ ▀█▀    [head=3]NanoTrasen Medical Department[/head] [head=1]+[/head]
+█ ▀█     █       [head=3]Death Certificate[/head]
+═══════════════════════════════════════[/color]
+Patient Name: [color=#1b67a5]Full name here[/color]
+Patient Species: [color=#1b67a5]Sample[/color]
+Patient Gender: [color=#1b67a5]Sample[/color]
+Patient's Department: [color=#1b67a5]Sample[/color]
+───────────────────────────────────────
+State of the Patient upon final examination: [color=#1b67a5]Placeholder[/color]
+Time of Death: [color=#1b67a5]HH:MM:SS[/color]
+Cause of Death: [color=#1b67a5]Placeholder[/color]
+Location of Death: [color=#1b67a5]Placeholder[/color]
+───────────────────────────────────────
+Additional Notes:
+[color=#1b67a5]Placeholder[/color]
 
-Patient Name: [color=#002AAF]Sample Person[/color]  
-Patient Species: [color=#002AAF]XXXX[/color]  
-Patient Gender: [color=#002AAF]XXX[/color]  
-Patient Department (if applicable): [color=#002AAF]XXX[/color]  
+[italic][color=#aaaaaa]Any falsification or misuse of this document, including unauthorized declaration of death, is subject to disciplinary action and a fine of up to 5,000 spesos, in accordance with NanoTrasen Health Insurance Handbook §12-6.3c.[/color][/italic]
 
-────  
-State of the Patient upon final examination:  [color=#002AAF]XXX[/color]  
-Time of Death: [color=#002AAF]XXX[/color]  
-Cause of Death: [color=#002AAF]XXX[/color]  
-Location of Death  (if known): [color=#002AAF]XXX[/color]  
-
-────  
-Additional Notes:  
-[color=#002AAF]XXX[/color]  
-
-
-
-
-[color=#aaaaaa]Any falsification or misuse of this document, including unauthorized declaration of death, is subject to disciplinary action and a fine of up to 5,000 spesos, in accordance with NanoTrasen Health Insurance Handbook §12-6.3c.[/color]
-
-                       [head=3] Signature of Attending Physician [/head]  
-─────────────────────────────────────────
+Attending Physician's Signature: [color=#1b67a5]Sample[/color]

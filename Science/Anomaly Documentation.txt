@@ -1,0 +1,23 @@
+# Anomaly Documentation
+[color=#c96dbf]█▄ █ ▀█▀    [head=3]Research & Development[/head]
+█ ▀█     █       [head=3]Anomaly Documentation[/head]
+═══════════════════════════════════════[/color]
+[bold]Attending Researcher:[/bold] [color=#1b67a5]Full name here[/color]
+───────────────────────────────────────
+[bold]Anomaly Type:[/bold] [color=#1b67a5]Placeholder[/color]
+
+[bold]Location:[/bold] [color=#1b67a5]Placeholder[/color]
+
+[bold]Particle Responses:[/bold]
+[bullet/]Dangerous: [color=#1b67a5]Placeholder[/color]
+[bullet/]Unstable: [color=#1b67a5]Placeholder[/color]
+[bullet/]Containment: [color=#1b67a5]Placeholder[/color]
+[bullet/]Transformation: [color=#1b67a5]Placeholder[/color]
+
+[bold]Anomaly Status:[/bold] [color=#1b67a5]Placeholder[/color]
+
+[bold]Behavior Deviation:[/bold] [color=#1b67a5]Placeholder[/color]
+
+[bold]Warnings:[/bold] [color=#1b67a5]Placeholder[/color]
+───────────────────────────────────────
+Attending Researcher's Signature: [color=#1b67a5]Sample[/color]

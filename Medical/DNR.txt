@@ -1,21 +1,12 @@
-# Do not resuscitate
-[color=#334E6D]█▄  █ ▀█▀
-█  ▀█    █®[head=2][bold]
-DNR Form[color=black][head=3]
-───────────────────────────────
-The subject of this DNR (Do not resuscitate) has either requested, or been ordered, not to be resuscitated, cloned or anything that would bring them back to life.
+# Do Not Resusciate
+[color=#5b97bc]█▄ █ ▀█▀    [head=3]NanoTrasen Medical Department[/head] [head=1]+[/head]
+█ ▀█     █       [head=3]Do Not Resusciate[/head]
+═══════════════════════════════════════[/color]
+The subject of this DNR has either requested, or been ordered not to be resuscitated, cloned or anything that would bring them back to life.
 
-Subject:[color=gray][italic] Name Here
-[color=black][/italic]
-Requested/Ordered by:[color=gray][italic] Name Here
-[color=black][/italic]
-Approved by:[color=gray][italic] Name Here
-[color=black][/italic]
-Note(s):
-
-
-[color=gray][italic]
-*Only with the approval of both CMO and HoS, or the Captain, or someone with a higher standing than captain, can they be allowed to be brought back to life. 
-
-
-
+[bullet/]Subject: [color=#1b67a5]Full name here[/color]
+[bullet/]Requested/Ordered by: [color=#1b67a5]Full name, Job title[/color]
+[bullet/]Approved by: [color=#1b67a5]Full name, Job title[/color]
+[bullet/]Additional notes: [color=#1b67a5]Placeholder[/color]
+───────────────────────────────────────
+[italic][color=#aaaaaa]Only with the approval of both the station's Chief Medical Officer and Captain / Central Command, can they be allowed to be brought back to life.[/color][/italic]

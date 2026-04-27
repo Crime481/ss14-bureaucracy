@@ -1,0 +1,161 @@
+[color=#009100]█▄ █ ▀█▀    [head=3]CENTRAL COMMAND[/head]
+█ ▀█     █       [head=3]SHIFT REPORT[/head][/color]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]NanoTrasen Representative:[/bold] [color=#002AAF]Todd, B.[/color]
+[bold]Station:[/bold] [color=#002AAF]NT14 "Cluster" XV-432[/color]
+[bold]Oversight Authority:[/bold] [color=#002AAF]Central Command[/color]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]• Present Command Staff[/bold]
+[italic][color=#002AAF]> Brendan Todd, NanoTrasen Representative.
+> Placeholder, Blueshield Officer.
+> Placeholder, Captain.
+| Arrived at XX:XX:XX.
+> Placeholder, Head of Personnel.
+> Placeholder, Head of Security.
+> Placeholder, Acting Research Director.
+| Unable to speak Tau-Ceti Basic without a translator.
+> Placeholder, Chief Medical Officer.
+> Placeholder, Chief Engineer.
+> Placeholder, Quartermaster.
+> Placeholder, Administrative Assistant.[/color][/italic]
+
+[bold]• Major on-station incidents[/bold]
+[italic][XX:XX:XX] > [color=#002AAF]Placeholder.[/color][/italic]
+
+[bold]• Confirmed OPFOR[/bold]
+[italic][XX:XX:XX] > [color=#002AAF]Placeholder.[/color]
+[XX:XX:XX] ^ [color=#002AAF]Confirmed threat by Department Placeholder.[/color]
+[XX:XX:XX] ^ [color=#002AAF]Threat KIA.[/color][/italic]
+──────────────────────────────────────────
+[head=3]• Command Staff Report[/head]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Security Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Medical Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Amount of medicine chemicals: (stock & variety)[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Engineering Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Active on-station power sources:[/bold]
+\[  ] Anti-Matter Engine
+\[  ] Singularity
+\[  ] Tesla
+\[  ] Thermo-Electric Generator
+\[  ] Extra low-voltage power sources
+\[  ] Extra medium-voltage power sources
+\[  ] Extra high-voltage power sources
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Cargo Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Speso amount:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Scientific Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Technology research progress:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Service Departmental Report[/head]
+[bold]Department staffing:[/bold]
+\[  ] High
+\[  ] Medium
+\[  ] Low
+\[  ] None
+
+[bold]Performance:[/bold]
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+──────────────────────────────────────────
+[head=3]• Silicon Performance Report[/head]
+[bold]Active silicons:[/bold]
+[italic]> [color=#002AAF]Cool guy (Si-2223)[/color]
+> [color=#002AAF]Beep II (Si-3921)[/color]
+> [color=#002AAF]Head of Robots (Si-9123)[/color][/italic]
+
+[bold]Station AI:[/bold]
+Name: [color=#002AAF]P.LA.C.E.HOLD.E.R.[/color]
+ID: [color=#002AAF]AI-231[/color]
+Active since: [color=#002AAF]XX:XX:XX / Shift beginning.[/color]
+Lawset integrity: [color=#002AAF]Good[/color]
+
+[italic]> [color=#002AAF]Placeholder.
+
+Overall placeholder performance.[/color][/italic]
+[bold]- Performance Rating: X[/bold]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Additional NanoTrasen Representative notes:[/bold]
+- [italic][color=#002AAF]Placeholder.[/color][/italic]
+
+signed, [color=#009100]NanoTrasen Representative Brendan Todd[/color]
