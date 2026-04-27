@@ -1,3 +1,4 @@
+# Ripley APLU Manual
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █
 █  [head=1]Ripley APLU guide[/head]
