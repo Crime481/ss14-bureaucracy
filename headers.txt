@@ -11,11 +11,11 @@
 ═══════════════════════════════════════[/color]
 
 [color=#b18644]█▄ █ ▀█▀    [head=3]CARGO[/head]
-█ ▀█     █       [head=3]idk lol[/head]
+█ ▀█     █       [head=3][/head]
 ═══════════════════════════════════════[/color]
 
 [color=#f39f27]█▄ █ ▀█▀   [head=3]NanoTrasen Engineering & Technical[/head]
-█ ▀█     █       [head=3]Building Permit[/head]
+█ ▀█     █       [head=3][/head]
 ═══════════════════════════════════════[/color]
 
 [color=#ff2fff]█▄ █ ▀█▀    [head=3]CLOWN[/head]
